@@ -14,7 +14,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter")
     implementation("org.slf4j:slf4j-api:2.0.17")
     testImplementation("org.slf4j:slf4j-simple:2.0.17")
-    // https://mvnrepository.com/artifact/com.rabbitmq/amqp-client
+    implementation("ch.qos.logback:logback-classic:1.5.18")
     implementation("com.rabbitmq:amqp-client:5.25.0")
 }
 
