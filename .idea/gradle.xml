@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$/hello-world" />
             <option value="$PROJECT_DIR$/publish-subscribe" />
             <option value="$PROJECT_DIR$/routing" />
+            <option value="$PROJECT_DIR$/topics" />
             <option value="$PROJECT_DIR$/work-queues" />
           </set>
         </option>
